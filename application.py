@@ -11,9 +11,12 @@
 
 #  2. DATA INGESTION TESTING
 
-from src.logger import logging as log
-from src.components.data_ingestion import DataIngestion
+# from src.logger import logging as log
+# from src.components.data_ingestion import DataIngestion
 
 
-data_ingestor = DataIngestion()
-data_ingestor.initiate_data_ingestion()
+# data_ingestor = DataIngestion()
+# data_ingestor.initiate_data_ingestion()
+
+# 3. DATA TRANSFORMATION TESTING
+
