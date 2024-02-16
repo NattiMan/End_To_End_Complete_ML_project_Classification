@@ -1,0 +1,3 @@
+INFO:root:Read train and test data completed
+INFO:root:Obtaining preprocessing object
+INFO:root:Applying preprocessing object on training dataframe and testing dataframe.
